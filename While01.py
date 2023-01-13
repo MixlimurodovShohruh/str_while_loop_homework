@@ -6,4 +6,14 @@ def main(s):
     Returns:
         int: return answer
     """
-    return
+    i=0
+    ans=0
+    while i<len(s):
+        x=s[i]
+        
+        if x.isdigit():
+            ans+=1
+        i+=1
+
+    return ans
+print(main('12345asfftr0'))
