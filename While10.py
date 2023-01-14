@@ -12,5 +12,4 @@ def main(s):
         ans+=int(s[i])
         i+=1
     return ans
-    
 print(main('1234567890'))
