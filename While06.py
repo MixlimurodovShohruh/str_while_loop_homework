@@ -9,12 +9,12 @@ def main(s):
     """
     i=0
     ans=0
-    s=s.upper()
+    s=s.lower()
     while i<len(s):
     
         if s[i]!="a" and s[i]!="e" and s[i]!="i" and s[i]!="o" and s[i]!="u" and s[i].isalpha():
             ans+=1
         i+=1
     return ans
-    
-print(main("asdf852ghujk54445h4545l"))
+
+print(main("CodeschoolUz"))

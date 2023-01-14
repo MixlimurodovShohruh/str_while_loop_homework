@@ -15,5 +15,4 @@ def main(s):
             ans+=1
         i+=1
     return ans
-    
-print(main('asdfghjkl123'))
+print(main('Python 2022'))

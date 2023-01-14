@@ -15,5 +15,5 @@ def main(s):
             ans+=1
         i+=1
     return ans
-    
-print(main('ABS125fghKKJ'))
+
+print(main('CodeschoolUz'))

@@ -13,5 +13,5 @@ def main(s):
             ans+=1
         i+=1
     return ans
-    
-print(main('123456789'))
+
+print(main('56786543250'))
