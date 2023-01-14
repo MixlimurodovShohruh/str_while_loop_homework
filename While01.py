@@ -16,4 +16,5 @@ def main(s):
         i+=1
 
     return ans
+
 print(main('12345asfftr0'))
