@@ -16,4 +16,5 @@ def main(s):
             ans+=1
         i+=1
     return ans
+    
 print(main("asdf852ghujk54445h4545l"))
