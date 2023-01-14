@@ -12,5 +12,4 @@ while i<len(s):
     x=s[i]
     s = s+s[i]
     i=i+1
-    
     print(main('222525253'))
