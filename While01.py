@@ -17,4 +17,5 @@ def main(s):
 
     return ans
 
+
 print(main('python 2022'))
