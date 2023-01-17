@@ -11,6 +11,7 @@ def main(s):
     while i<len(s):
         x=s[i]
 
+
         if x.isalpha():
             ans+=1
         i+=1

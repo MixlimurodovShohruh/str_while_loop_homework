@@ -14,5 +14,6 @@ def main(s):
         if not s[i].strip(punctuation):
             ans+=1
         i+=1
+        
     return ans
 print (main("#hashtag@$"))

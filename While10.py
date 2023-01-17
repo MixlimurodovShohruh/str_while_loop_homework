@@ -12,5 +12,6 @@ def main(s):
         if int(s[i])%2!=0:
          ans+=int(s[i])
         i+=1
+        
     return ans
 print(main('98421'))

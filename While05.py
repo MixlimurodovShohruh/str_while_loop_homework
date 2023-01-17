@@ -10,6 +10,7 @@ def main(s):
     ans=0
     while i<len(s):
         x=s[i]
+        
 
         if x.islower():
             ans+=1
